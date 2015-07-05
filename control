@@ -1,0 +1,10 @@
+Package: com.s1ris.CryptoNotes
+Name: CryptoNotes
+Version: 1.0
+Description: Encrypt notes in notes app
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate
+Architecture: iphoneos-arm
+Author: s1ris
+Depiction: 
+Maintainer: s1ris
